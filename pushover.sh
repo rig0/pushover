@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Pushover script by Rigo Sotomayor
+# Pushover script by rig0.
 # Usage:
 #   pushover "backup complete"
 #   pushover message="Server backup complete" title=Hostname priority=-1

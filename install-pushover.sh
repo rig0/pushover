@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Pushover installation script by Rigo Sotomayor
+# Pushover installation script by rig0.
 
 set -euo pipefail
 
